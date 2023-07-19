@@ -23,7 +23,7 @@ import com.example.StageEte.RestApiwebServices.Entity.Product.Product;
 import com.example.StageEte.RestApiwebServices.Entity.Product.ProductRepository;
 import com.example.StageEte.RestApiwebServices.Exception.IdNotFoundException;
 
-import jakarta.validation.Valid;
+import jakarta.validation.Valid; 
 
 @RestController
 public class WebServiceController {
